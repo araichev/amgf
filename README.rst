@@ -19,10 +19,10 @@ Main Files
 - docs/amgf-0.8.pdf, documentation
 - trac_10519-v7.patch, Sage patch
 
-Instructions
+Installation
 -------------
-You can install the patch file, a process that's a bit technical and described `here <http://ask.sagemath.org/question/1276/how-to-install-patches-or-should-we>`_.
-Alternatively, you can call amgf-0.8.py as a module in a Sage notebook session as follows.
+You can install the code as a Sage patch file, a process that's a bit technical and described `here <http://ask.sagemath.org/question/1276/how-to-install-patches-or-should-we>`_.
+Alternatively, you can import amgf-0.8.py as a module in a Sage notebook session as follows.
 
 #. Download and install the latest version of Sage from `here <http://sagemath.org>`_.
 #. Download amgf-0.8.py, amgf-0.8_examples, and amgf-0.8.pdf.
