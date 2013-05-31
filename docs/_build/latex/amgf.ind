@@ -1,0 +1,91 @@
+\begin{theindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter A
+  \item algebraic\_dependence\_certificate() (amgf.FFPD method), \hyperpage{4}
+  \item algebraic\_dependence\_decomposition() (amgf.FFPD method), \hyperpage{5}
+  \item amgf (module), \hyperpage{1}
+  \item asymptotic\_decomposition() (amgf.FFPD method), \hyperpage{6}
+  \item asymptotics() (amgf.FFPD method), \hyperpage{7}
+  \item asymptotics\_multiple() (amgf.FFPD method), \hyperpage{9}
+  \item asymptotics\_smooth() (amgf.FFPD method), \hyperpage{11}
+
+  \indexspace
+  \bigletter C
+  \item coerce\_point() (amgf.FFPD static method), \hyperpage{13}
+  \item cohomology\_decomposition() (amgf.FFPD method), \hyperpage{13}
+  \item combine\_like\_terms() (amgf.FFPDSum method), \hyperpage{35}
+  \item crit\_cone\_combo() (amgf.FFPD method), \hyperpage{14}
+  \item critical\_cone() (amgf.FFPD method), \hyperpage{15}
+
+  \indexspace
+  \bigletter D
+  \item denominator() (amgf.FFPD method), \hyperpage{15}
+  \item denominator\_factored() (amgf.FFPD method), \hyperpage{16}
+  \item diff\_all() (amgf.FFPD static method), \hyperpage{16}
+  \item diff\_op() (amgf.FFPD static method), \hyperpage{18}
+  \item diff\_op\_simple() (amgf.FFPD static method), \hyperpage{19}
+  \item diff\_prod() (amgf.FFPD static method), \hyperpage{20}
+  \item diff\_seq() (amgf.FFPD static method), \hyperpage{21}
+  \item dimension() (amgf.FFPD method), \hyperpage{21}
+  \item direction() (amgf.FFPD static method), \hyperpage{22}
+
+  \indexspace
+  \bigletter F
+  \item FFPD (class in amgf), \hyperpage{4}
+  \item FFPDSum (class in amgf), \hyperpage{35}
+
+  \indexspace
+  \bigletter G
+  \item grads() (amgf.FFPD method), \hyperpage{22}
+
+  \indexspace
+  \bigletter I
+  \item is\_convenient\_multiple\_point() (amgf.FFPD method), \hyperpage{23}
+
+  \indexspace
+  \bigletter L
+  \item leinartas\_decomposition() (amgf.FFPD method), \hyperpage{23}
+  \item list() (amgf.FFPD method), \hyperpage{25}
+  \item log\_grads() (amgf.FFPD method), \hyperpage{26}
+
+  \indexspace
+  \bigletter M
+  \item maclaurin\_coefficients() (amgf.FFPD method), \hyperpage{26}
+
+  \indexspace
+  \bigletter N
+  \item nullstellensatz\_certificate() (amgf.FFPD method), \hyperpage{27}
+  \item nullstellensatz\_decomposition() (amgf.FFPD method), \hyperpage{28}
+  \item numerator() (amgf.FFPD method), \hyperpage{29}
+
+  \indexspace
+  \bigletter P
+  \item permutation\_sign() (amgf.FFPD static method), \hyperpage{29}
+
+  \indexspace
+  \bigletter Q
+  \item quotient() (amgf.FFPD method), \hyperpage{30}
+
+  \indexspace
+  \bigletter R
+  \item relative\_error() (amgf.FFPD method), \hyperpage{30}
+  \item ring() (amgf.FFPD method), \hyperpage{31}
+  \item ring() (amgf.FFPDSum method), \hyperpage{36}
+
+  \indexspace
+  \bigletter S
+  \item singular\_ideal() (amgf.FFPD method), \hyperpage{31}
+  \item smooth\_critical\_ideal() (amgf.FFPD method), \hyperpage{32}
+  \item subs\_all() (amgf.FFPD static method), \hyperpage{33}
+  \item sum() (amgf.FFPDSum method), \hyperpage{36}
+
+  \indexspace
+  \bigletter U
+  \item univariate\_decomposition() (amgf.FFPD method), \hyperpage{34}
+
+  \indexspace
+  \bigletter W
+  \item whole\_and\_parts() (amgf.FFPDSum method), \hyperpage{37}
+
+\end{theindex}

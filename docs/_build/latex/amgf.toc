@@ -1,0 +1,6 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}The amgf Module}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Indices and tables}{38}{chapter.2}
+\contentsline {chapter}{Bibliography}{39}{chapter*.46}
+\contentsline {chapter}{Python Module Index}{40}{section*.51}
+\contentsline {chapter}{Index}{41}{section*.52}
