@@ -14,9 +14,9 @@ You are welcome to review the patch.
 
 Main Files
 --------------
-- amgf-0.8.py, source file. Version date 8 October 2012.
+- amgf-0.8.py, Python source file (version date 8 October 2012)
 - amgf-0.8_examples.sws, Sage worksheet of examples
-- docs/amgf-0.8.pdf, documentation.
+- docs/amgf-0.8.pdf, documentation
 - trac_10519-v7.patch, Sage patch
 
 Instructions
