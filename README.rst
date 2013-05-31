@@ -9,11 +9,27 @@ More specifically, it computes arbitrary terms of the asymptotic expansion for :
 The algorithms and formulas implemented here come from [RaWi2008a]_
 and [RaWi2012]_.
 
-For more detailed information, see the latest PDF file in the docs.
-For examples, see the latest Sage worksheet (SWS) file in this directory.
-
-``amgf-0.8.py`` has also been submitted to the Sage Trac server as `ticket/patch 10519 <http://trac.sagemath.org/sage_trac/ticket/10519>`_ for incorporation into the Sage code base.
+``amgf-0.8.py`` has also been submitted to the Sage Trac server as `ticket 10519 <http://trac.sagemath.org/sage_trac/ticket/10519>`_ for incorporation into the Sage code base.
 You are welcome to review the patch. 
+
+Main Files
+--------------
+- amgf-0.8.py, source file. Version date 8 October 2012.
+- amgf-0.8_examples.sws, Sage worksheet of examples
+- docs/amgf-0.8.pdf, documentation.
+- trac_10519-v7.patch, Sage patch
+
+Instructions
+-------------
+You can install the patch file, a process that's a bit technical and described `here <http://ask.sagemath.org/question/1276/how-to-install-patches-or-should-we>`_.
+Alternatively, you can call amgf-0.8.py as a module in a Sage notebook session as follows.
+
+#. Download and install the latest version of Sage from `here <http://sagemath.org>`_.
+#. Download amgf-0.8.py, amgf-0.8_examples, and amgf-0.8.pdf.
+#. Run Sage and open a Sage notebook window. (Type 'notebook()' if you are running Sage from the command line.)
+#. Upload amgf-0.8_examples.sws into your Sage notebook.
+#. Open the worksheet, customize the first cell to point to the location of your copy of amgf-0.8.py, and modify the examples to your liking.
+
 
 .. [RaWi2008a] Alexander Raichev and Mark C. Wilson, "Asymptotics of coefficients of multivariate generating functions: improvements for smooth points", Electronic Journal of Combinatorics, Vol. 15 (2008), R89, `<http://arxiv.org/pdf/0803.2914.pdf>`_.
 
