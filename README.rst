@@ -1,6 +1,6 @@
 amgf
 ====
-Let $F(x) = \sum_{\nu \in \NN^d} F_{\nu} x^\nu$ be a multivariate power series with complex coefficients that converges in a neighborhood of the origin. Assume that $F = G/H$ for some functions $G$ and $H$ holomorphic in a neighborhood of the origin.
+Let :math:`F(x) = \sum_{\nu \in \NN^d} F_{\nu} x^\nu` be a multivariate power series with complex coefficients that converges in a neighborhood of the origin. Assume that $F = G/H$ for some functions $G$ and $H$ holomorphic in a neighborhood of the origin.
 Assume also that $H$ is a polynomial.
 
 This Python module for use within `Sage <http://www.sagemath.org>`_ computes asymptotics for the coefficients $F_{r \alpha}$ as $r \to \infty$ with $r \alpha \in \NN^d$ for $\alpha$ in a permissible subset of $d$-tuples of positive reals.
