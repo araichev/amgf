@@ -9,7 +9,7 @@ More specifically, it computes arbitrary terms of the asymptotic expansion for :
 The algorithms and formulas implemented here come from [RaWi2008a]_
 and [RaWi2012]_.
 
-``amgf-0.8.py`` has also been submitted to the Sage Trac server as `ticket 10519 <http://trac.sagemath.org/sage_trac/ticket/10519>`_ for incorporation into the Sage code base.
+``amgf-0.8.py`` has also been submitted to the Sage Trac server as ``trac_10519-v7.patch`` on `ticket 10519 <http://trac.sagemath.org/sage_trac/ticket/10519>`_ for incorporation into the Sage code base.
 You are welcome to review the patch. 
 
 Main Files
