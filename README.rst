@@ -1,5 +1,7 @@
 amgf
 ====
+**Update**: On 2016-02-17 this work and added improvements were incorporated into the Sage codebase, then released in Sage version 7.1. So use Sage 7.1 or later instead of this repository.  Thanks to all the contributors!
+
 Let :math:`F(x) = \sum_{\nu \in \NN^d} F_{\nu} x^\nu` be a multivariate power series with complex coefficients that converges in a neighborhood of the origin. Assume that :math:`F = G/H` for some functions :math:`G` and :math:`H` holomorphic in a neighborhood of the origin.
 Assume also that :math:`H` is a polynomial.
 
